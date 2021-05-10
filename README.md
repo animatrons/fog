@@ -1,2 +1,0 @@
-# fog
-classic website template
